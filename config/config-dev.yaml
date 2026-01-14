@@ -1,0 +1,16 @@
+
+embedding:
+  custom_embedder:
+    model_name: ""
+    base_url: ""
+    api_key: ""
+
+llm:
+  custom_llm:
+    model_name: ""
+    base_url: ""
+    api_key: ""
+
+freebase:
+  sparql_url: "http://localhost:3001/sparql"
+  name_space: "http://rdf.freebase.com/ns/"
