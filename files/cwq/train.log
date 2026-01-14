@@ -1,0 +1,4 @@
+2026-01-14 18:13:16.475 | INFO     | config.singleton:__getattr__:117 - initializing CONV
+2026-01-14 18:13:16.479 | INFO     | config.singleton:__getattr__:128 - initializing SCORER
+2026-01-14 18:13:19.745 | INFO     | config.singleton:__getattr__:97 - initializing QTR_BODY
+2026-01-14 18:13:24.360 | INFO     | utils.chat_model_factory:create:289 - [ChatModel] Init → customized_name=custom_llm | llm_engine=
